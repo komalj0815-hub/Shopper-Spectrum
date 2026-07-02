@@ -117,7 +117,7 @@ The application recommends the five most similar products using collaborative fi
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Shopper_Spectrum.git
+git clone https://github.com/komalj0815-hub/Shopper_Spectrum.git
 ```
 
 Move into the project folder:
